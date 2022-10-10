@@ -1,1 +1,1 @@
-# hospitalManagemantSystem
+# Brain Tumor Detection 
